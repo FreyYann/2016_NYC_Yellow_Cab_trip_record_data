@@ -1,4 +1,6 @@
 ## 1. This Notebook tells stroy about New York cab Trip Duration
+### Although it is a late submit, the rank is in 30% of the leardboard.
+### The intertion is to reforce the Machine Learning skills.
 
 ## 2. Feature Engineering
 ### 2.1 Distribution of Data
