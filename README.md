@@ -1,9 +1,3 @@
-# ms-project-template
-A template for students doing M.S. or undergraduate independent studies/theses.
-
-See instructions here: [Instructions.md](Instructions.md)
-
-This README.md file should summarize your project. Think of it as the short version of your project report.
 
 ## Problem
 In this competition, Kaggle is challenging you to build a model that predicts the total ride duration of taxi trips in New York City. Your primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables.
